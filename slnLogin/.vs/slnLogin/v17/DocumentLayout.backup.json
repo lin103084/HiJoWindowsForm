@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|c:\\develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21winform\\windowsform\\c#\u5C08\u6848\\\u5408\u4F75\\slnlogin\\prjlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|solutionrelative:prjlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|solutionrelative:prjlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjlogin\\frm\\frmaddmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|solutionrelative:prjlogin\\frm\\frmaddmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjlogin\\control\\ucmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|solutionrelative:prjlogin\\control\\ucmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjlogin\\frm\\frmaddmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|solutionrelative:prjlogin\\frm\\frmaddmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|solutionrelative:prjlogin\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjlogin\\frmbackendpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|solutionrelative:prjlogin\\frmbackendpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjlogin\\frmbackendpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|solutionrelative:prjlogin\\frmbackendpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjlogin\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|solutionrelative:prjlogin\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjlogin\\class\\csendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2518DABD-A605-4C9A-95FF-DB44C8D715BB}|prjLogin\\prjLogin.csproj|solutionrelative:prjlogin\\class\\csendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 864,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "prjLogin\\FrmLogin.cs",
+              "ToolTip": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\FrmLogin.cs",
+              "RelativeToolTip": "prjLogin\\FrmLogin.cs",
+              "ViewState": "AgIAAHEAAAAAsMzMzMz8vzkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:24:25.898Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBackendPage.cs",
+              "DocumentMoniker": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\FrmBackendPage.cs",
+              "RelativeDocumentMoniker": "prjLogin\\FrmBackendPage.cs",
+              "ToolTip": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\FrmBackendPage.cs",
+              "RelativeToolTip": "prjLogin\\FrmBackendPage.cs",
+              "ViewState": "AgIAAGgAAAAA/v////8CwHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:07:05.719Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\Program.cs",
+              "RelativeDocumentMoniker": "prjLogin\\Program.cs",
+              "ToolTip": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\Program.cs",
+              "RelativeToolTip": "prjLogin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:38:09.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCmember.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\Control\\UCmember.cs",
+              "RelativeDocumentMoniker": "prjLogin\\Control\\UCmember.cs",
+              "ToolTip": "C:\\share\\Tommy\\slnLogin\\prjLogin\\Control\\UCmember.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\share\\Tommy\\slnLogin\\prjLogin\\Control\\UCmember.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:18:13.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAddMember.cs",
+              "DocumentMoniker": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\Frm\\FrmAddMember.cs",
+              "RelativeDocumentMoniker": "prjLogin\\Frm\\FrmAddMember.cs",
+              "ToolTip": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\Frm\\FrmAddMember.cs",
+              "RelativeToolTip": "prjLogin\\Frm\\FrmAddMember.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAvwJwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:45:31.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAddMember.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\Frm\\FrmAddMember.cs",
+              "RelativeDocumentMoniker": "prjLogin\\Frm\\FrmAddMember.cs",
+              "ToolTip": "C:\\share\\Tommy\\slnLogin\\prjLogin\\Frm\\FrmAddMember.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\share\\Tommy\\slnLogin\\prjLogin\\Frm\\FrmAddMember.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:47:50.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLogin.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "prjLogin\\FrmLogin.cs",
+              "ToolTip": "C:\\share\\Tommy\\slnLogin\\prjLogin\\FrmLogin.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\share\\Tommy\\slnLogin\\prjLogin\\FrmLogin.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:23:44.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmBackendPage.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\FrmBackendPage.cs",
+              "RelativeDocumentMoniker": "prjLogin\\FrmBackendPage.cs",
+              "ToolTip": "C:\\share\\Tommy\\slnLogin\\prjLogin\\FrmBackendPage.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\share\\Tommy\\slnLogin\\prjLogin\\FrmBackendPage.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:06:58.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "prjLogin\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "prjLogin\\FrmLogin.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:32:05.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CsendEmail.cs",
+              "DocumentMoniker": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\Class\\CsendEmail.cs",
+              "RelativeDocumentMoniker": "prjLogin\\Class\\CsendEmail.cs",
+              "ToolTip": "C:\\Develop\\ispan\\\u5C08\u984C\u5831\u544A\\\u7B2C\u4E00\u6B21WinForm\\windowsForm\\C#\u5C08\u6848\\\u5408\u4F75\\slnLogin\\prjLogin\\Class\\CsendEmail.cs",
+              "RelativeToolTip": "prjLogin\\Class\\CsendEmail.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAlwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:43:13.737Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 292,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

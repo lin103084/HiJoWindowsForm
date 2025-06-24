@@ -1,0 +1,215 @@
+C:\Users\User\source\repos\ADO_NET\slnLogin\prjLogin\bin\Debug\prjLogin.exe.config
+C:\Users\User\source\repos\ADO_NET\slnLogin\prjLogin\bin\Debug\prjLogin.exe
+C:\Users\User\source\repos\ADO_NET\slnLogin\prjLogin\bin\Debug\prjLogin.pdb
+C:\Users\User\source\repos\ADO_NET\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ADO_NET\slnLogin\prjLogin\obj\Debug\prjLogin.Form1.resources
+C:\Users\User\source\repos\ADO_NET\slnLogin\prjLogin\obj\Debug\prjLogin.Properties.Resources.resources
+C:\Users\User\source\repos\ADO_NET\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ADO_NET\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADO_NET\slnLogin\prjLogin\obj\Debug\prjLogin.exe
+C:\Users\User\source\repos\ADO_NET\slnLogin\prjLogin\obj\Debug\prjLogin.pdb
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\prjLogin.exe.config
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\prjLogin.exe
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\prjLogin.pdb
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.AssemblyReference.cache
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.Properties.Resources.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.GenerateResource.cache
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.CoreCompileInputs.cache
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.exe
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.pdb
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.FrmBackendPage.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.FrmLogin.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.Control.UCmember.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\prjLogin.exe.config
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\prjLogin.exe
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\prjLogin.pdb
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.AssemblyReference.cache
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.Control.UCmember.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.FrmBackendPage.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.FrmLogin.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.Properties.Resources.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.GenerateResource.cache
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.CoreCompileInputs.cache
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.exe
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.pdb
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.Frm.FrmMemberDetail.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.Frm.FrmMemberDetail.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\MaterialSkin.dll
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\MetroFramework.Design.dll
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\MetroFramework.dll
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\MetroFramework.Fonts.dll
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\SunnyUI.Common.dll
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\SunnyUI.dll
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.Up2Date
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\BCrypt.Net-Next.dll
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\System.Buffers.dll
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\System.Memory.dll
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\System.Numerics.Vectors.dll
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\BCrypt.Net-Next.xml
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\System.Buffers.xml
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\System.Memory.xml
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.Frm.FrmAddMember.resources
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\BCrypt.Net-Next.dll
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\MaterialSkin.dll
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\MetroFramework.Design.dll
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\MetroFramework.dll
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\MetroFramework.Fonts.dll
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\SunnyUI.Common.dll
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\SunnyUI.dll
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\System.Buffers.dll
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\System.Memory.dll
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\System.Numerics.Vectors.dll
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\BCrypt.Net-Next.xml
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\System.Buffers.xml
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\System.Memory.xml
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\share\Tommy\slnLogin\prjLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.Frm.FrmAddMember.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.Up2Date
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.AssemblyReference.cache
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.Control.UCmember.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.FrmBackendPage.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.FrmLogin.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.Frm.FrmAddMember.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmBatchDetails.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmEditEventType.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmEventDetails.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmInsertEventType.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.Frm.FrmMemberDetail.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmOrderDetails.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmOrderStatus.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmPaymentTypes.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.Properties.Resources.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.GenerateResource.cache
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.CoreCompileInputs.cache
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.exe
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.pdb
+C:\share\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.UserControls.UCeventsManager.resources
+C:\share\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.UserControls.UCordersManager.resources
+C:\share\合併\slnLogin\prjLogin\bin\Debug\prjLogin.exe.config
+C:\share\合併\slnLogin\prjLogin\bin\Debug\prjLogin.exe
+C:\share\合併\slnLogin\prjLogin\bin\Debug\prjLogin.pdb
+C:\share\合併\slnLogin\prjLogin\bin\Debug\BCrypt.Net-Next.dll
+C:\share\合併\slnLogin\prjLogin\bin\Debug\MaterialSkin.dll
+C:\share\合併\slnLogin\prjLogin\bin\Debug\MetroFramework.Design.dll
+C:\share\合併\slnLogin\prjLogin\bin\Debug\MetroFramework.dll
+C:\share\合併\slnLogin\prjLogin\bin\Debug\MetroFramework.Fonts.dll
+C:\share\合併\slnLogin\prjLogin\bin\Debug\SunnyUI.Common.dll
+C:\share\合併\slnLogin\prjLogin\bin\Debug\SunnyUI.dll
+C:\share\合併\slnLogin\prjLogin\bin\Debug\System.Buffers.dll
+C:\share\合併\slnLogin\prjLogin\bin\Debug\System.Memory.dll
+C:\share\合併\slnLogin\prjLogin\bin\Debug\System.Numerics.Vectors.dll
+C:\share\合併\slnLogin\prjLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\share\合併\slnLogin\prjLogin\bin\Debug\BCrypt.Net-Next.xml
+C:\share\合併\slnLogin\prjLogin\bin\Debug\System.Buffers.xml
+C:\share\合併\slnLogin\prjLogin\bin\Debug\System.Memory.xml
+C:\share\合併\slnLogin\prjLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\share\合併\slnLogin\prjLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\share\合併\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.Up2Date
+C:\share\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.match.UcSwipes.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\prjLogin.exe.config
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\prjLogin.exe
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\prjLogin.pdb
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\BCrypt.Net-Next.dll
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\MaterialSkin.dll
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\MetroFramework.Design.dll
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\MetroFramework.dll
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\MetroFramework.Fonts.dll
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\SunnyUI.Common.dll
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\SunnyUI.dll
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\System.Buffers.dll
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\System.Memory.dll
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\System.Numerics.Vectors.dll
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\BCrypt.Net-Next.xml
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\System.Buffers.xml
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\System.Memory.xml
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.AssemblyReference.cache
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.UserControls.UCeventsManager.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.Control.UCmember.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.UserControls.UCordersManager.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.match.UcSwipes.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.FrmBackendPage.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.FrmLogin.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.Frm.FrmAddMember.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmBatchDetails.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmEditEventType.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmEventDetails.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmInsertEventType.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.Frm.FrmMemberDetail.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmOrderDetails.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmOrderStatus.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmPaymentTypes.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.Properties.Resources.resources
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.GenerateResource.cache
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.CoreCompileInputs.cache
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.Up2Date
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.exe
+C:\C sharp class\專題 - 複製\slnLogin\prjLogin\obj\Debug\prjLogin.pdb
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.UserControls.UCeventsManager.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.UserControls.UCordersManager.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.match.UcSwipes.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmBatchDetails.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmEditEventType.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmEventDetails.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmInsertEventType.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmOrderDetails.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmOrderStatus.resources
+C:\share\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmPaymentTypes.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.UserControls.UCeventsManager.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.UserControls.UCordersManager.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.match.UcSwipes.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmBatchDetails.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmEditEventType.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmEventDetails.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmInsertEventType.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmOrderDetails.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmOrderStatus.resources
+C:\Develop\C#\repos\Ispan\PrjFriendShip\Tommy\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmPaymentTypes.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\prjLogin.exe.config
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\prjLogin.exe
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\prjLogin.pdb
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\BCrypt.Net-Next.dll
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\MaterialSkin.dll
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\MetroFramework.Design.dll
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\MetroFramework.dll
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\MetroFramework.Fonts.dll
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\SunnyUI.Common.dll
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\SunnyUI.dll
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\System.Buffers.dll
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\System.Memory.dll
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\System.Numerics.Vectors.dll
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\BCrypt.Net-Next.xml
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\System.Buffers.xml
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\System.Memory.xml
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\System.Numerics.Vectors.xml
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.AssemblyReference.cache
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.UserControls.UCeventsManager.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.Control.UCmember.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.UserControls.UCordersManager.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.match.UcSwipes.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.FrmBackendPage.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.FrmLogin.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.Frm.FrmAddMember.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmBatchDetails.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmEditEventType.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmEventDetails.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmInsertEventType.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.Frm.FrmMemberDetail.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmOrderDetails.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmOrderStatus.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\slnFriendshipBackEnd.Forms.FrmPaymentTypes.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.Properties.Resources.resources
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.GenerateResource.cache
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.CoreCompileInputs.cache
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.csproj.Up2Date
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.exe
+C:\Develop\ispan\專題報告\第一次WinForm\windowsForm\C#專案\合併\slnLogin\prjLogin\obj\Debug\prjLogin.pdb
